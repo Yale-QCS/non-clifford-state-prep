@@ -1,9 +1,10 @@
 # Fault-tolerant non-clifford gates using error detection
-Source code for paper: Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations
+## Manuscript
 
-Credit: Part of the source code is built upon software from
+Source code for paper: [Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations](https://arxiv.org/abs/2303.17380)
+
+Credit note: Part of the source code is built upon software from
 [Virtualized Logical Qubits: A 2.5D Architecture for Error-Corrected Quantum Computing](https://arxiv.org/abs/2009.01982), from [cduck/VLQ](https://github.com/cduck/VLQ)
-
 
 
 ## Install
